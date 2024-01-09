@@ -52,7 +52,7 @@ I am a Data Science Enthusiast <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 
 ### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=akashmishrahaha&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akashmishrahaha)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/akashmishrahaha/github-readme-stats)
