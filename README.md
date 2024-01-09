@@ -55,7 +55,7 @@ I am a Data Science Enthusiast <img src="https://media.giphy.com/media/WUlplcMpO
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akashmishrahaha)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/akashmishrahaha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashmishrahaha&layout=compact&theme=vision-friendly-dark)](https://github.com/akashmishrahaha/github-readme-stats)
 
 ---
 
