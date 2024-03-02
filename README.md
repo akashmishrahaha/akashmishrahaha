@@ -24,7 +24,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Data Science Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+Software Engineer Mid Journey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m learning  Machine Learning and Deep Learning .
 
 - :seedling: Exploring Technical Content Writing.
